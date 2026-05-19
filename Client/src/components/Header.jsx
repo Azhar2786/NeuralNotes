@@ -26,7 +26,7 @@ const Header = () => {
                 <img src={assets.star_icon} alt="" className='w-2.5'/>
             </div>
 
-            <h1 className='text-4xl sm:text-6xl font-bold'>Your own <span className='text-blue-800'>blogging</span> <br/>platform</h1>
+            <h1 className='text-4xl sm:text-6xl font-bold'>Your own <span className='text-blue-800'>Neural</span> <br/>Notes</h1>
             
             <p className='my-6 sm:my-8 max-w-2xl m-auto max-sm:text-xs text-gray-500'>
                 This is your space to think out loud, to share what matters, and to write without filters. Whether it's one word or a thousand, your story startsright here.
